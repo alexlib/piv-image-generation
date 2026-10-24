@@ -3,3 +3,4 @@ codegen
 .DS_Store
 *.mex*
 *mages/
+uv.lock
